@@ -13,7 +13,7 @@ Utilized Microsoft Excel for data cleaning, manipulation, and visualization.
 Created pivot tables and charts to analyze trends in firm demographics, years in business, and employment statistics.
 Results:
 
-Diversity in Ownership: The data revealed a diverse business ownership landscape, with a significant presence of female-owned, minority-owned, and veteran-owned businesses. Insights from charts can be highlighted here (e.g., "The analysis indicated that X% of businesses were female-owned in 2021").
+Diversity in Ownership: The data revealed a diverse business ownership landscape, with a significant presence of female-owned, minority-owned, and veteran-owned businesses. 
 Firm Longevity: Charts can be used to showcase findings on firm longevity across demographics (e.g., "Younger firms, with less than 2 years in operation, were more prevalent among Hispanic-owned businesses compared to non-Hispanic-owned businesses").
 Employment Patterns: Data visualizations can reveal trends in employment across demographic categories (e.g., "Analysis of payroll data suggested that female-owned businesses employed a higher percentage of female workers").
 Insights:
